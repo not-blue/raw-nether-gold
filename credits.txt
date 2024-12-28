@@ -1,5 +1,5 @@
-Pack name:  
-Pack URL:   
+Pack name:  Nether Gold Ore Drops Raw Gold
+Pack URL:   https://modrinth.com/project/nether-gold-ore-drops-raw-gold/
 Author:     Nicole / notblue / nicoleisnotblue
 Author URL: https://modrinth.com/user/notblue   
 
