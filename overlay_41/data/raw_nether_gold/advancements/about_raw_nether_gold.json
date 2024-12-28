@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "id": "minecraft:nether_gold_ore"
+      "id": "minecraft:raw_gold"
     },
     "title": "About Nether Gold Ore Drops Raw Gold",
     "description": "Nether gold ore drops raw gold instead of gold nuggets",
